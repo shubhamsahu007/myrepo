@@ -1,2 +1,2 @@
 # myrepo
-Hi this is me and myrepo repository is amazing 
+Hi this is Rishi Khandagle and myrepo repository is amazing 
